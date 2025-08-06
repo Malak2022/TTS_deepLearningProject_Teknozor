@@ -1,0 +1,12 @@
+numpy
+pandas
+librosa
+matplotlib
+tqdm
+scipy
+unidecode
+jupyter
+torch
+torchaudio
+tensorboard
+soundfile
