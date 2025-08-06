@@ -1,0 +1,27 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Ignore Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# Ignore data and model weights
+*.h5
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.npz
+*.npy
+*.log
+
+# Ignore system files
+.DS_Store
+
+# Ignore heavy data folders (adjust if needed)
+data/
